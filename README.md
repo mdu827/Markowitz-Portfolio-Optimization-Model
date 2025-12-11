@@ -32,10 +32,13 @@
 - Find **Maximum Sharpe Ratio** portfolio automatically
 - Set your own **risk tolerance** (target volatility)
 - See exact weights for each ticker in the optimal portfolio
-- Works with any NASDAQ/NYSE tickers (SPY, HOOD, TSLA, JPM, NVDA, PLTR, etc.)
+- Works with any NASDAQ/NYSE tickers
+- Lets you set your own acceptable risk level and shows the optimal allocation for it
+- Displays exact weights for each stock, expected return, volatility, and Sharpe ratio
+- Calculates optimal portfolio w/performance
 
 ### Tech Stack
-**Python** • **Streamlit** • **Plotly** • **Pandas** • **NumPy** • **SciPy** (optimize)
+**Python** • **Streamlit** • **Plotly** • **Pandas** • **NumPy** • **SciPy**
 
 <br>
 
