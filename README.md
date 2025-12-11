@@ -47,8 +47,8 @@ https://markowitz-portfolio-optimization-model.streamlit.app
 
 <br><br>
 
-<a href="https://github.com/твой_логин/твой_репозиторий">
-  <img src="https://img.shields.io/badge/GitHub-View_Source-0d1117?style=for-the-badge&logo=github&logoColor=white" height="42"/>
+<a href="https://github.com/mdu827/ImpliedVolatility-surface">
+  <img src="https://img.shields.io/badge/GitHub-mdu827/Markowitz-Portfolio-Optimization-Model?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
 &emsp;
 <a href="https://t.me/vespasianvindex">
