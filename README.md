@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/mdu827/Markowitz-Portfolio-Optimization-Model/main/img/efficient_frontier_screenshot.png" width="96%" alt="Efficient Frontier with Max Sharpe Portfolio"/>
+<img src="https://raw.githubusercontent.com/mdu827/Markowitz-Portfolio-Optimization-Model/main/img/efficient_frontier_screenshot.png" width="96%" alt="Efficient Frontier"/>
 
 <br>
 
